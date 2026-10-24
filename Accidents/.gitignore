@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large model binaries / joblib (optional if using git LFS)
+# rf_model.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
